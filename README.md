@@ -12,6 +12,7 @@ If you don’t already have one - you need to <a href="https://login.launchpad.n
 <img src="https://github.com/apolitech/ReportingBugs/blob/master/launchpad_new_acc.gif?raw=true">
 <p><strong>Determine if the bug is really a bug</strong></p>
 <p>Before doing all this please use the <a href="https://ubuntu-mate.community/">Ubuntu Mate forum</a> and see if there are other users having the same problem. It can be instances when the problem is when a installation gone wrong or of a specific PC/Laptop configuration.</p>
+<img src="https://github.com/apolitech/ReportingBugs/blob/master/forum_suport.gif?raw=true">
 <h3><strong>Perform a survey of your problem</strong></h3>
 <p>First, check the <a href="https://ubuntu-mate.org/blog/">release notes</a> of your supported version of Ubuntu Mate for any known issues from here. Second, check <a href="https://bugs.launchpad.net/ubuntu-mate">Launchpad</a> for any duplicates, and make note of this.</p>
 <p>Reporting non-crash hardware and desktop application bugs
