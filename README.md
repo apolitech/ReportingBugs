@@ -20,21 +20,25 @@ The method for reporting bugs in Ubuntu is by using the tool “ubuntu-bug”, o
 <h3>If you know the program packet name.</h3>
 <pre><code>Press Alt+F2 and type ubuntu-bug x (where x is the name of program)
 </code></pre>
+<img src="https://github.com/apolitech/ReportingBugs/blob/master/ubuntu-bug%20-w.gif?raw=true">
 <hr>
 <h3>If you want to Collect information about a program with a window open</h3>
 <pre><code>Press Alt+F2 and type ubuntu-bug -w
 </code></pre>
 <p><u>(After you close the dialog the next window that you click on will have a problem report created for the package that created the window.)
+<img src="https://github.com/apolitech/ReportingBugs/blob/master/ubuntu-bug%20-w.gif">
 </u></p>
 <hr>
 <h3>If you want to Collect information from a currently running program</h3>
 <p><u>(To file a bug against a program that is currently running, open the System Monitor application and find the ID of the process.)</u></p>
 <pre><code>Press Alt+F2 and type ubuntu-bug  xxxxx   (where x is the  process ID)
 </code></pre>
+<img src="https://github.com/apolitech/ReportingBugs/blob/master/ubuntu-mate%20xxxx.gif">
 <hr>
 <h3>If you have a hardware issue or don't know the name of the program affected</h3>
 <pre><code>Press Alt+F2 and type ubuntu-bug
 </code></pre>
+<img src="https://github.com/apolitech/ReportingBugs/blob/master/ubuntu-bug.gif">
 <hr>
 <p>After running one of the above commands, Ubuntu Mate will gather information about the bug. This may take a few minutes. Review the collected information if you wish. Click <em>Send</em> to continue.</p>
 <p>A new web browser tab will open to continue processing the bug data. Ubuntu Mate  uses the website Launchpad to manage its bug reports.
