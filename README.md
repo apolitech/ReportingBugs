@@ -41,6 +41,7 @@ The method for reporting bugs in Ubuntu is by using the tool “ubuntu-bug”, o
 <img src="https://github.com/apolitech/ReportingBugs/blob/master/ubuntu-bug.gif">
 <hr>
 <p>After running one of the above commands, Ubuntu Mate will gather information about the bug. This may take a few minutes. Review the collected information if you wish. Click <em>Send</em> to continue.</p>
+<img src="https://github.com/apolitech/ReportingBugs/blob/master/collecting.gif?raw=true">
 <p>A new web browser tab will open to continue processing the bug data. Ubuntu Mate  uses the website Launchpad to manage its bug reports.
 After logging in to Launchpad, enter a description of the problem in the summary field.</p>
 <p>After clicking Next Launchpad will search for similar bugs in case the bug you are reporting has already been reported.
