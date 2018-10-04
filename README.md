@@ -55,5 +55,7 @@ If the bug has not already been reported, click No, I need to report a new bug.<
 </u></p>
 <p>Your report will be given an ID number, and its status will be updated as it is being dealt with. Thanks for helping make Ubuntu Mate better!</p>
 
+
+<p> This documentation is an updated version of https://help.ubuntu.com/community/ReportingBugs and https://help.ubuntu.com/stable/ubuntu-help/report-ubuntu-bug.html.en </p>
 </body>
 </html>
