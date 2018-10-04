@@ -15,8 +15,9 @@ If you don’t already have one - you need to <a href="https://login.launchpad.n
 <img src="https://github.com/apolitech/ReportingBugs/blob/master/forum_suport.gif?raw=true">
 <h3><strong>Perform a survey of your problem</strong></h3>
 <p>First, check the <a href="https://ubuntu-mate.org/blog/">release notes</a> of your supported version of Ubuntu Mate for any known issues from here. Second, check <a href="https://bugs.launchpad.net/ubuntu-mate">Launchpad</a> for any duplicates, and make note of this.</p>
-<p>Reporting non-crash hardware and desktop application bugs
-The method for reporting bugs in Ubuntu is by using the tool “ubuntu-bug”, otherwise known as Apport. </p>
+<img src="https://github.com/apolitech/ReportingBugs/blob/master/release%20notes%20and%20Launchpad.gif?raw=true">
+<p>(Reporting non-crash hardware and desktop application bugs
+The method for reporting bugs in Ubuntu is by using the tool “ubuntu-bug”, otherwise known as Apport.) </p>
 <hr>
 <h2><strong>Reporting a problem in Ubuntu Mate</strong></h2>
 <h3>If you know the program packet name.</h3>
