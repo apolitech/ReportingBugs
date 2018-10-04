@@ -23,7 +23,7 @@ The method for reporting bugs in Ubuntu is by using the tool “ubuntu-bug”, o
 <h3>If you know the program packet name.</h3>
 <pre><code>Press Alt+F2 and type ubuntu-bug x (where x is the name of program)
 </code></pre>
-<img src="https://github.com/apolitech/ReportingBugs/blob/master/ubuntu-bug%20-w.gif?raw=true">
+<img src="https://github.com/apolitech/ReportingBugs/blob/master/ubuntu-bug%20x.gif?raw=true">
 <hr>
 <h3>If you want to Collect information about a program with a window open</h3>
 <pre><code>Press Alt+F2 and type ubuntu-bug -w
