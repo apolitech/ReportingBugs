@@ -9,6 +9,7 @@
 <p>Ubuntu uses Launchpad to keep track of bugs and their fixes. This page will guide you through the steps required to file a good and detailed report.
       Create a Launchpad account
 If you don’t already have one - you need to <a href="https://login.launchpad.net/+login">create a Launchpad account</a>. This will allow you to file new bugs and comment on existing ones.</p>
+<img src="https://github.com/apolitech/ReportingBugs/blob/master/launchpad_new_acc.gif?raw=true">
 <p><strong>Determine if the bug is really a bug</strong></p>
 <p>Before doing all this please use the <a href="https://ubuntu-mate.community/">Ubuntu Mate forum</a> and see if there are other users having the same problem. It can be instances when the problem is when a installation gone wrong or of a specific PC/Laptop configuration.</p>
 <h3><strong>Perform a survey of your problem</strong></h3>
