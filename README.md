@@ -12,7 +12,7 @@ If you don’t already have one - you need to <a href="https://login.launchpad.n
 <p><strong>Determine if the bug is really a bug</strong></p>
 <p>Before doing all this please use the <a href="https://ubuntu-mate.community/">Ubuntu Mate forum</a> and see if there are other users having the same problem. It can be instances when the problem is when a installation gone wrong or of a specific PC/Laptop configuration.</p>
 <h3><strong>Perform a survey of your problem</strong></h3>
-<p>First, check the <a href="https://ubuntu-mate.org/blog/">release notes</a> of your supported version of Ubuntu Mate for any known issues from here. Second, check <a href="https://launchpad.net/ubuntu-mate">Launchpad</a> for any duplicates, and make note of this.</p>
+<p>First, check the <a href="https://ubuntu-mate.org/blog/">release notes</a> of your supported version of Ubuntu Mate for any known issues from here. Second, check <a href="https://bugs.launchpad.net/ubuntu-mate">Launchpad</a> for any duplicates, and make note of this.</p>
 <p>Reporting non-crash hardware and desktop application bugs
 The method for reporting bugs in Ubuntu is by using the tool “ubuntu-bug”, otherwise known as Apport. </p>
 <hr>
