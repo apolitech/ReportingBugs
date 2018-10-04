@@ -20,7 +20,7 @@ If you don’t already have one - you need to <a href="https://login.launchpad.n
 The method for reporting bugs in Ubuntu is by using the tool “ubuntu-bug”, otherwise known as Apport.) </p>
 <hr>
 <h2><strong>Reporting a problem in Ubuntu Mate</strong></h2>
-<h3>If you know the program packet name.</h3>
+<h3>If you know the program package name.</h3>
 <pre><code>Press Alt+F2 and type ubuntu-bug x (where x is the name of program)
 </code></pre>
 <img src="https://github.com/apolitech/ReportingBugs/blob/master/ubuntu-bug%20x.gif?raw=true">
