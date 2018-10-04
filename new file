@@ -1,0 +1,61 @@
+﻿
+
+
+
+                         How to report bugs
+Ubuntu uses Launchpad to keep track of bugs and their fixes. This page will guide you through the steps required to file a good and detailed report.
+      
+      Create a Launchpad account
+If you don’t already have one - you need to create a Launchpad account. This will allow you to file new bugs and comment on existing ones.
+
+
+    1. Determine if the bug is really a bug
+
+Before doing all this please use the forum and see if there are other users having the same problem. It can be instances when the problem is when a installation when wrong or of a specific PC/Laptop configuration.
+
+
+    • Perform a survey of your problem
+First, check the release notes of your supported version of Ubuntu for any known issues from here. Second, check Launchpad for any duplicates, and make note of this.
+
+Reporting non-crash hardware and desktop application bugs
+The method for reporting bugs in Ubuntu is by using the tool “ubuntu-bug”, otherwise known as Apport. 
+
+
+       2. Reporting a problem in Ubuntu Mate
+
+If you notice a problem in Ubuntu Mate, you can file a bug report.
+
+    • If you know the program packet name.
+Press Alt+F2 and type ubuntu-bug x (where x is the name of program)
+
+
+    • If you want to Collect information about a program with a window open
+Press Alt+F2 and type ubuntu-bug -w  
+(After you close the dialog the next window that you click on will have a problem report created for the package that created the window.)
+
+    • If you want to Collect information from a currently running program
+(To file a bug against a program that is currently running, open the System Monitor application and find the ID of the process.)
+          Press Alt+F2 and type ubuntu-bug  xxxxx   (where x is the  process ID)
+
+    • If you have a hardware issue or don't know the name of the program affected
+      Press Alt+F2 and typee ubuntu-bug
+
+      After running one of the above commands, Ubuntu Mate will gather information about the bug.       This may take a few minutes. Review the collected information if you wish. Click Send to continue.
+
+A new web browser tab will open to continue processing the bug data. Ubuntu Mate  uses the website Launchpad to manage its bug reports. If you do not have a Launchpad account, you will need to register for one to file a bug and receive email updates about its status. You can do this by clicking Create a new account.
+
+After logging in to Launchpad, enter a description of the problem in the summary field.
+
+After clicking Next Launchpad will search for similar bugs in case the bug you are reporting has already been reported. If the bug has already been reported, you can mark that bug as also affecting you. You can also subscribe to the bug report to receive updates about progress with fixing it. If the bug has not already been reported, click No, I need to report a new bug.
+
+Fill in the description field with as much information as you can. It's important that you specify three things:
+
+What you expected to happen
+
+What actually happened
+
+If possible, a minimal series of steps necessary to make it happen, where step 1 is "start the program"
+
+
+
+Your report will be given an ID number, and its status will be updated as it is being dealt with. Thanks for helping make Ubuntu Mate better!
